@@ -48,7 +48,7 @@
     <div class="container">
         <h1>Welcome to My Portfolio</h1>
         <p>
-            Hi! This page showcases my work. Feel free to explore the projects.
+            Hi! This page showcases my work. Feel free to explore the projects and get in touch if you'd like to collaborate.
         </p>
 
         <div class="email">
@@ -57,3 +57,4 @@
     </div>
 </body>
 </html>
+
